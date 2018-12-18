@@ -15,8 +15,8 @@
 	cursor: pointer;
 }
 .magestore-bannerslide-flex-slider .flex-control-nav img{
-	width: 300px;
-	height: 150px;
+	/*width: 300px;*/
+	/*height: 150px;*/
 }
 
 .flexslider-carousel .slides img{
@@ -33,13 +33,13 @@
 
 @media only screen and (max-width: 768px) {
     .magestore-bannerslider-standard {
-    	width: 768px;
+    	/*width: 768px;*/
     }
 }
 
 @media only screen and (max-width: 360px){
     .magestore-bannerslider-standard {
-    	width: 290px;
+    	/*width: 290px;*/
     }
 }
 
